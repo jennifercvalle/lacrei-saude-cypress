@@ -18,11 +18,4 @@ Foram automatizados cenários relacionados ao fluxo de cadastro, incluindo:
 * Validação de campos obrigatórios
 * Verificação do comportamento do sistema após a finalização do cadastro
 
----
 
-## Tecnologias Utilizadas
-
-* Cypress — Framework de automação de testes
-* JavaScript
-* Node.js
-* Visual Studio Code
